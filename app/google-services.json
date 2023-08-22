@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "176177072418",
+    "project_number": "815711428246",
     "firebase_url": "https://ambulance-booking-app-sih.firebaseio.com",
-    "project_id": "ambulance-booking-app-sih",
-    "storage_bucket": "ambulance-booking-app-sih.appspot.com"
+    "project_id": "uber-ambulance-android",
+    "storage_bucket": "uber-ambulance-android.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:176177072418:android:25a32b06d50ee820",
+        "mobilesdk_app_id": "1:815711428246:android:e5793cc677be0a2b1fecb7",
         "android_client_info": {
           "package_name": "com.project.sih.ambulancebookingapp_sih"
         }
       },
       "oauth_client": [
         {
-          "client_id": "176177072418-vu1dbghtmemqodbdjeakdk502b4et6en.apps.googleusercontent.com",
+          "client_id": "815711428246-me2sucbhjcb79pr06msrmf09jiofmvr2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.project.sih.ambulancebookingapp_sih",
-            "certificate_hash": "a5f86fba6f83d31a160e7b6b9cc606c778dc13c0"
+            "certificate_hash": "b84b7ae3bbd94baed419f6575fd1ee2d17f34db0"
           }
         },
         {
-          "client_id": "176177072418-cms8t9f5l95rhov7t4eh5jfhd04j8p1m.apps.googleusercontent.com",
+          "client_id": "815711428246-fe444lg0jst8n8ed8q19httohed05cuj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCTc4825zW-QYm7mRQlKgxjtsMU37E_T0E"
+          "current_key": "AIzaSyD-684KQLdiWBbix-zdm9VgF92xmXjG5WQ"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "176177072418-cms8t9f5l95rhov7t4eh5jfhd04j8p1m.apps.googleusercontent.com",
+              "client_id": "815711428246-fe444lg0jst8n8ed8q19httohed05cuj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -52,28 +52,28 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:176177072418:android:fa38cc42c372c9f4",
+        "mobilesdk_app_id": "1:815711428246:android:e5793cc677be0a2b1fecb7",
         "android_client_info": {
           "package_name": "com.project.sih.ambulancebookingapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "176177072418-h3pd5ncr43lst80lv9eq4030tq2mtohu.apps.googleusercontent.com",
+          "client_id": "815711428246-me2sucbhjcb79pr06msrmf09jiofmvr2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.project.sih.ambulancebookingapplication",
-            "certificate_hash": "a5f86fba6f83d31a160e7b6b9cc606c778dc13c0"
+            "certificate_hash": "b84b7ae3bbd94baed419f6575fd1ee2d17f34db0"
           }
         },
         {
-          "client_id": "176177072418-cms8t9f5l95rhov7t4eh5jfhd04j8p1m.apps.googleusercontent.com",
+          "client_id": "815711428246-fe444lg0jst8n8ed8q19httohed05cuj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCTc4825zW-QYm7mRQlKgxjtsMU37E_T0E"
+          "current_key": "AIzaSyD-684KQLdiWBbix-zdm9VgF92xmXjG5WQ"
         }
       ],
       "services": {
@@ -84,7 +84,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "176177072418-cms8t9f5l95rhov7t4eh5jfhd04j8p1m.apps.googleusercontent.com",
+              "client_id": "815711428246-fe444lg0jst8n8ed8q19httohed05cuj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
